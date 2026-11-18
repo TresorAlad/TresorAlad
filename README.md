@@ -42,7 +42,8 @@ I care about clean code, honest metrics, and shipping tools teams actually use.
 </table>
 
 <p>
-<a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/00c65939-0b47-4bdc-9702-4f9511451b47"><strong>Microsoft Student Ambassador</strong></a> · DBA &amp; data engineering<br>
+<a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/00c65939-0b47-4bdc-9702-4f9511451b47"><strong>Microsoft Student Ambassador</strong></a> ·
+<strong>AWS Student Builder Group Lead</strong> (ESGIS Togo) · DBA &amp; data engineering<br>
 Portfolio at <a href="https://tresoralade.me/">tresoralade.me</a> · open source on <a href="https://github.com/TresorAlad">GitHub</a><br>
 <em>Fun fact: I can debug a Jupyter notebook faster than a Friday-night SQL script.</em>
 </p>
@@ -59,6 +60,7 @@ Portfolio at <a href="https://tresoralade.me/">tresoralade.me</a> · open source
 <br><br>
 
 <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/00c65939-0b47-4bdc-9702-4f9511451b47"><img src="https://img.shields.io/badge/Microsoft-Student%20Ambassador-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Student Ambassador" /></a>
+<a href="https://aws.amazon.com/developer/community/students/"><img src="https://img.shields.io/badge/AWS-Student%20Builder%20Group%20Lead-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Student Builder Group Lead" /></a>
 <br>
 <a href="https://tresoralade.me/"><img src="https://img.shields.io/badge/Hire%20me-F7941D?style=for-the-badge&logo=rocket&logoColor=white" alt="Hire me" /></a>
 <br>
@@ -171,4 +173,5 @@ Portfolio at <a href="https://tresoralade.me/">tresoralade.me</a> · open source
   <a href="https://github.com/TresorAlad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/tresor-alade/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/00c65939-0b47-4bdc-9702-4f9511451b47"><img src="https://img.shields.io/badge/Microsoft-Student%20Ambassador-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Student Ambassador" /></a>
+  <a href="https://aws.amazon.com/developer/community/students/"><img src="https://img.shields.io/badge/AWS-Student%20Builder%20Group%20Lead-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Student Builder Group Lead" /></a>
 </p>

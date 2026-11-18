@@ -89,8 +89,8 @@
         <text x="205" y="628" text-anchor="middle" fill="#F7941D">Microsoft Student Amb.</text>
         <rect x="344" y="600" width="170" height="44" rx="22" fill="#1E90FF" fill-opacity=".12" stroke="#1E90FF" stroke-opacity=".5"/>
         <text x="429" y="628" text-anchor="middle" fill="#7cc0ff">Python · Go</text>
-        <rect x="528" y="600" width="150" height="44" rx="22" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".2"/>
-        <text x="603" y="628" text-anchor="middle" fill="#e6e9f0">Azure</text>
+        <rect x="528" y="600" width="198" height="44" rx="22" fill="#FF9900" fill-opacity=".12" stroke="#FF9900" stroke-opacity=".55"/>
+        <text x="627" y="628" text-anchor="middle" fill="#FF9900">AWS SBG Lead</text>
       </g>
       <g class="r5 mono" font-size="20" fill="#8b93a7">
         <text x="80" y="760"><tspan fill="#F7941D">▸</tspan> 25+ repos · real ML, data &amp; product work</text>
