@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <a href="https://foliotresor.netlify.app">
+  <a href="https://tresoralade.me/">
     <img width="100%" src="./assets/hero.svg" alt="Trésor ALADE - Junior AI and Data Engineer" />
   </a>
 </p>
@@ -43,7 +43,7 @@ I care about clean code, honest metrics, and shipping tools teams actually use.
 
 <p>
 <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/00c65939-0b47-4bdc-9702-4f9511451b47"><strong>Microsoft Student Ambassador</strong></a> · DBA &amp; data engineering<br>
-Portfolio at <a href="https://foliotresor.netlify.app">foliotresor.netlify.app</a> · open source on <a href="https://github.com/TresorAlad">GitHub</a><br>
+Portfolio at <a href="https://tresoralade.me/">tresoralade.me</a> · open source on <a href="https://github.com/TresorAlad">GitHub</a><br>
 <em>Fun fact: I can debug a Jupyter notebook faster than a Friday-night SQL script.</em>
 </p>
 
@@ -60,7 +60,7 @@ Portfolio at <a href="https://foliotresor.netlify.app">foliotresor.netlify.app</
 
 <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/00c65939-0b47-4bdc-9702-4f9511451b47"><img src="https://img.shields.io/badge/Microsoft-Student%20Ambassador-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Student Ambassador" /></a>
 <br>
-<a href="https://foliotresor.netlify.app"><img src="https://img.shields.io/badge/Hire%20me-F7941D?style=for-the-badge&logo=rocket&logoColor=white" alt="Hire me" /></a>
+<a href="https://tresoralade.me/"><img src="https://img.shields.io/badge/Hire%20me-F7941D?style=for-the-badge&logo=rocket&logoColor=white" alt="Hire me" /></a>
 <br>
 <img src="https://komarev.com/ghpvc/?username=TresorAlad&label=Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
@@ -121,7 +121,7 @@ Portfolio at <a href="https://foliotresor.netlify.app">foliotresor.netlify.app</
 </tr>
 </table>
 
-<p align="center"><a href="https://foliotresor.netlify.app"><b>Explore all projects →</b></a></p>
+<p align="center"><a href="https://tresoralade.me/"><b>Explore all projects →</b></a></p>
 
 <p align="center"><img width="100%" alt="Octocat moving through the CI/CD pipeline" src="./assets/pipeline-5.svg" /></p>
 
@@ -161,13 +161,13 @@ Portfolio at <a href="https://foliotresor.netlify.app">foliotresor.netlify.app</
 <!-- ========================================================= -->
 
 <p align="center">
-  <a href="https://foliotresor.netlify.app">
-    <img width="100%" src="./assets/connect.svg" alt="Let's build something great - foliotresor.netlify.app" />
+  <a href="https://tresoralade.me/">
+    <img width="100%" src="./assets/connect.svg" alt="Let's build something great - tresoralade.me" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://foliotresor.netlify.app"><img src="https://img.shields.io/badge/Portfolio-F7941D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://tresoralade.me/"><img src="https://img.shields.io/badge/Portfolio-F7941D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/TresorAlad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/tresor-alade/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://mvp.microsoft.com/en-US/studentambassadors/profile/00c65939-0b47-4bdc-9702-4f9511451b47"><img src="https://img.shields.io/badge/Microsoft-Student%20Ambassador-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Student Ambassador" /></a>
